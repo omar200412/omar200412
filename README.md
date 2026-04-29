@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @omar200412
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in cyber security 
 - 📫 How to reach me my email is okhalefa5@gmail.com and my phone number +905510214871
 
 <!---
